@@ -4,6 +4,7 @@ The quickest way to start your next react project.
 # Getting Started!!!!!
 
     $ git clone https://github.com/thedanotto/react-starter-webpack.git
+    $ cd react-starter-webpack/
 
 Ensure you have the following dependencies installed globally
 
